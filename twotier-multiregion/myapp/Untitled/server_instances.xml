@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<data grt_format="2.0">
+  <value _ptr_="0xc88abc0" type="list" content-type="object" content-struct-name="db.mgmt.ServerInstance">
+    <value type="object" struct-name="db.mgmt.ServerInstance" id="510DBB5C-A8A1-4AE0-B821-27E173FE8C16" struct-checksum="0x367436e2">
+      <link type="object" struct-name="db.mgmt.Connection" key="connection">20DC3582-789B-429C-A10D-7B23C3F929A9</link>
+      <value _ptr_="0xcec5f50" type="dict" key="loginInfo"/>
+      <value _ptr_="0xcec5110" type="dict" key="serverInfo">
+        <value type="int" key="setupPending">0</value>
+        <value type="string" key="sys.sudo"></value>
+      </value>
+      <value type="string" key="name">EBDB</value>
+    </value>
+    <value type="object" struct-name="db.mgmt.ServerInstance" id="B64CEE85-4579-45F9-9058-88BC009EF284" struct-checksum="0x367436e2">
+      <link type="object" struct-name="db.mgmt.Connection" key="connection">2F80E027-E959-4922-BC48-46369311B764</link>
+      <value _ptr_="0xceb86f0" type="dict" key="loginInfo"/>
+      <value _ptr_="0xceb8730" type="dict" key="serverInfo">
+        <value type="int" key="setupPending">0</value>
+        <value type="string" key="sys.sudo"></value>
+      </value>
+      <value type="string" key="name">EBDB 2</value>
+    </value>
+  </value>
+</data>

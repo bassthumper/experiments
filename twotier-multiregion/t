@@ -1,0 +1,43 @@
+
+https://rds.us-west-2.amazonaws.com/?DBInstanceIdentifier=aa1448d8o47rohf&MaxRecords=100&Version=2013-09-09&Action=DescribeDBInstances&SignatureVersion=4&SignatureMethod=HmacSHA256&Timestamp=20140813T012551Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20140813T012551Z&X-Amz-SignedHeaders=Host&X-Amz-Expires=20140813T012551Z&X-Amz-Credential=AKIAIXNDM6GBQDAPGHXA%2F20140813%2Fus-west-2%2Frds%2Faws4_request&X-Amz-Signature=d59e99535a3ecb0cbdbfd8b13c1b00c8e6bb043dd142ccb4a303bb3d37dbb388
+
+
+
+https://rds.us-west-2.amazonaws.com/?
+DBInstanceIdentifier=aa1448d8o47rohf
+&MaxRecords=100
+&Version=2013-09-09
+&Action=DescribeDBInstances
+&SignatureVersion=4
+&SignatureMethod=HmacSHA256
+&Timestamp=20140813T012551Z
+&X-Amz-Algorithm=AWS4-HMAC-SHA256
+&X-Amz-Date=20140813T012551Z
+&X-Amz-SignedHeaders=Host
+&X-Amz-Expires=20140813T012551Z
+&X-Amz-Credential=AKIAIXNDM6GBQDAPGHXA%2F20140813%2Fus-west-2%2Frds%2Faws4_request
+&X-Amz-Signature=d59e99535a3ecb0cbdbfd8b13c1b00c8e6bb043dd142ccb4a303bb3d37dbb388
+
+
+
+
+
+
+The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.
+
+The Canonical String for this request should have been
+'GET
+/
+Action=DescribeDBInstances&DBInstanceIdentifier=aa1448d8o47rohf&MaxRecords=100&SignatureMethod=HmacSHA256&SignatureVersion=4&Timestamp=20140813T012551Z&Version=2013-09-09&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIXNDM6GBQDAPGHXA%2F20140813%2Fus-west-2%2Frds%2Faws4_request&X-Amz-Date=20140813T012551Z&X-Amz-Expires=20140813T012551Z&X-Amz-SignedHeaders=Host
+host:rds.us-west-2.amazonaws.com
+
+host
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+
+The String-to-Sign should have been
+'AWS4-HMAC-SHA256
+20140813T012551Z
+20140813/us-west-2/rds/aws4_request
+47ea8dfe51a7cf49c304c643d6f459c5585922d92288aaae781c65a6f0e98799'
+ 
+

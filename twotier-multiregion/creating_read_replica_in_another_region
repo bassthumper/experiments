@@ -1,0 +1,3 @@
+
+rds-create-db-instance-read-replica mydbinstance --source-db-instance-identifier arn:aws:rds:us-west-2:361911674743:db:aa1448d8o47rohf --region eu-west-1 --debug
+

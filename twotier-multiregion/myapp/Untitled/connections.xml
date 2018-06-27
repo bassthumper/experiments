@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<data grt_format="2.0">
+  <value _ptr_="0xc88ab60" type="list" content-type="object" content-struct-name="db.mgmt.Connection">
+    <value type="object" struct-name="db.mgmt.Connection" id="20DC3582-789B-429C-A10D-7B23C3F929A9" struct-checksum="0x96ba47d8">
+      <link type="object" struct-name="db.mgmt.Driver" key="driver">com.mysql.rdbms.mysql.driver.native</link>
+      <value type="string" key="hostIdentifier">Mysql@aa1diqv43kvf10i.cklebl4y5vs8.us-west-2.rds.amazonaws.com:3306</value>
+      <value type="int" key="isDefault">0</value>
+      <value _ptr_="0xceb8630" type="dict" key="modules"/>
+      <value _ptr_="0xceb8230" type="dict" key="parameterValues">
+        <value type="string" key="SQL_MODE"></value>
+        <value type="string" key="hostName">aa1diqv43kvf10i.cklebl4y5vs8.us-west-2.rds.amazonaws.com</value>
+        <value type="string" key="password"></value>
+        <value type="int" key="port">3306</value>
+        <value type="string" key="schema"></value>
+        <value type="string" key="sslCA"></value>
+        <value type="string" key="sslCert"></value>
+        <value type="string" key="sslCipher"></value>
+        <value type="string" key="sslKey"></value>
+        <value type="string" key="userName">awsmaster</value>
+      </value>
+      <value type="string" key="name">EBDB</value>
+      <link type="object" struct-name="GrtObject" key="owner">0CC05CDD-2EFC-4CB6-8389-D1351D4792CF</link>
+    </value>
+    <value type="object" struct-name="db.mgmt.Connection" id="2F80E027-E959-4922-BC48-46369311B764" struct-checksum="0x96ba47d8">
+      <link type="object" struct-name="db.mgmt.Driver" key="driver">com.mysql.rdbms.mysql.driver.native</link>
+      <value type="string" key="hostIdentifier">Mysql@aa1448d8o47rohf.cklebl4y5vs8.us-west-2.rds.amazonaws.com:3306</value>
+      <value type="int" key="isDefault">0</value>
+      <value _ptr_="0xcec4090" type="dict" key="modules"/>
+      <value _ptr_="0xcec4110" type="dict" key="parameterValues">
+        <value type="string" key="SQL_MODE"></value>
+        <value type="string" key="hostName">aa1448d8o47rohf.cklebl4y5vs8.us-west-2.rds.amazonaws.com</value>
+        <value type="int" key="lastConnected">1407895038</value>
+        <value type="string" key="password"></value>
+        <value type="int" key="port">3306</value>
+        <value type="string" key="schema"></value>
+        <value type="string" key="serverVersion">5.5.37-log</value>
+        <value type="string" key="sslCA"></value>
+        <value type="string" key="sslCert"></value>
+        <value type="string" key="sslCipher"></value>
+        <value type="string" key="sslKey"></value>
+        <value type="string" key="userName">awsmaster</value>
+      </value>
+      <value type="string" key="name">EBDB 2</value>
+      <link type="object" struct-name="GrtObject" key="owner">0CC05CDD-2EFC-4CB6-8389-D1351D4792CF</link>
+    </value>
+    <value type="object" struct-name="db.mgmt.Connection" id="C9BE20E7-801E-4EAF-B26D-AB87C7B85116" struct-checksum="0x96ba47d8">
+      <link type="object" struct-name="db.mgmt.Driver" key="driver">com.mysql.rdbms.mysql.driver.native</link>
+      <value type="string" key="hostIdentifier">Mysql@mydbinstance.cklebl4y5vs8.us-west-2.rds.amazonaws.com:3306</value>
+      <value type="int" key="isDefault">0</value>
+      <value _ptr_="0xcec4440" type="dict" key="modules"/>
+      <value _ptr_="0xcec44c0" type="dict" key="parameterValues">
+        <value type="string" key="SQL_MODE"></value>
+        <value type="string" key="hostName">mydbinstance.cklebl4y5vs8.us-west-2.rds.amazonaws.com</value>
+        <value type="string" key="password"></value>
+        <value type="int" key="port">3306</value>
+        <value type="string" key="schema"></value>
+        <value type="string" key="sslCA"></value>
+        <value type="string" key="sslCert"></value>
+        <value type="string" key="sslCipher"></value>
+        <value type="string" key="sslKey"></value>
+        <value type="string" key="userName">awsmaster</value>
+      </value>
+      <value type="string" key="name">EBDB 2 (us-west read replica)</value>
+      <link type="object" struct-name="GrtObject" key="owner">0CC05CDD-2EFC-4CB6-8389-D1351D4792CF</link>
+    </value>
+    <value type="object" struct-name="db.mgmt.Connection" id="34B0C1DF-7936-4D75-8D9B-29BE730E7EB9" struct-checksum="0x96ba47d8">
+      <link type="object" struct-name="db.mgmt.Driver" key="driver">com.mysql.rdbms.mysql.driver.native</link>
+      <value type="string" key="hostIdentifier">Mysql@mydbinstance.crkuu5smqjyp.eu-west-1.rds.amazonaws.com:3306</value>
+      <value type="int" key="isDefault">0</value>
+      <value _ptr_="0xcec47f0" type="dict" key="modules"/>
+      <value _ptr_="0xcec4870" type="dict" key="parameterValues">
+        <value type="string" key="SQL_MODE"></value>
+        <value type="string" key="hostName">mydbinstance.crkuu5smqjyp.eu-west-1.rds.amazonaws.com</value>
+        <value type="string" key="password"></value>
+        <value type="int" key="port">3306</value>
+        <value type="string" key="schema"></value>
+        <value type="string" key="sslCA"></value>
+        <value type="string" key="sslCert"></value>
+        <value type="string" key="sslCipher"></value>
+        <value type="string" key="sslKey"></value>
+        <value type="string" key="userName">awsmaster</value>
+      </value>
+      <value type="string" key="name">EBDB 2 (eu-west read replica)</value>
+      <link type="object" struct-name="GrtObject" key="owner">0CC05CDD-2EFC-4CB6-8389-D1351D4792CF</link>
+    </value>
+    <value type="object" struct-name="db.mgmt.Connection" id="F005CFFB-0387-4F41-B818-AC01CB77116D" struct-checksum="0x96ba47d8">
+      <link type="object" struct-name="db.mgmt.Driver" key="driver">com.mysql.rdbms.mysql.driver.native</link>
+      <value type="string" key="hostIdentifier">Mysql@ec2-54-77-229-160.eu-west-1.compute.amazonaws.com:3306</value>
+      <value type="int" key="isDefault">0</value>
+      <value _ptr_="0xcec4ba0" type="dict" key="modules"/>
+      <value _ptr_="0xcec4c20" type="dict" key="parameterValues">
+        <value type="string" key="SQL_MODE"></value>
+        <value type="string" key="hostName">ec2-54-77-229-160.eu-west-1.compute.amazonaws.com</value>
+        <value type="string" key="password"></value>
+        <value type="int" key="port">3306</value>
+        <value type="string" key="schema"></value>
+        <value type="string" key="sslCA"></value>
+        <value type="string" key="sslCert"></value>
+        <value type="string" key="sslCipher"></value>
+        <value type="string" key="sslKey"></value>
+        <value type="string" key="userName">wordpress</value>
+      </value>
+      <value type="string" key="name">Wordpress test</value>
+      <link type="object" struct-name="GrtObject" key="owner">0CC05CDD-2EFC-4CB6-8389-D1351D4792CF</link>
+    </value>
+    <value type="object" struct-name="db.mgmt.Connection" id="0073C6D7-C1F6-41C3-A8DC-1B7F39FE35E1" struct-checksum="0x96ba47d8">
+      <link type="object" struct-name="db.mgmt.Driver" key="driver">com.mysql.rdbms.mysql.driver.native</link>
+      <value type="string" key="hostIdentifier">Mysql@montanawoundedwarriors.org:3306</value>
+      <value type="int" key="isDefault">1</value>
+      <value _ptr_="0xcec4f50" type="dict" key="modules"/>
+      <value _ptr_="0xcec4fd0" type="dict" key="parameterValues">
+        <value type="string" key="SQL_MODE"></value>
+        <value type="string" key="hostName">montanawoundedwarriors.org</value>
+        <value type="string" key="password"></value>
+        <value type="int" key="port">3306</value>
+        <value type="string" key="schema"></value>
+        <value type="string" key="sslCA"></value>
+        <value type="string" key="sslCert"></value>
+        <value type="string" key="sslCipher"></value>
+        <value type="string" key="sslKey"></value>
+        <value type="string" key="userName">root</value>
+      </value>
+      <value type="string" key="name">Wounded Warrior Test connection</value>
+      <link type="object" struct-name="GrtObject" key="owner">0CC05CDD-2EFC-4CB6-8389-D1351D4792CF</link>
+    </value>
+  </value>
+</data>

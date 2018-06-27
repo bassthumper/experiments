@@ -1,0 +1,12 @@
+Retrieving status of environment "test1-env".
+URL		: test1-env-uskvgh4dmf.elasticbeanstalk.com
+Status		: Ready
+Health		: Green
+Environment Name: test1-env
+Environment ID	: e-zfgpqji5mj
+Environment Tier: WebServer::Standard::1.0
+Solution Stack	: 64bit Amazon Linux 2014.03 v1.0.4 running PHP 5.5
+Version Label	: git-ac7354042f527dcb8102ed4675d7672a8baf03a0-1407885323819
+Date Created	: 2014-08-12 18:15:33
+Date Updated	: 2014-08-12 18:21:01
+Description	: 
