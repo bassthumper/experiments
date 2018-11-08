@@ -1,0 +1,9 @@
+{
+  "Parameters" : {
+    "DBName" : "TestWordPressDB",
+    "DBPassword" : "mytestpassword",
+    "DBRootPassword" : "mytestpassword",
+    "DBUser" : "TestDBuser",    
+    "KeyName" : "aws-kslean"
+  }
+}

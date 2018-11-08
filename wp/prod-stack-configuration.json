@@ -1,0 +1,9 @@
+{
+  "Parameters" : {
+    "DBName" : "ProdWordPressDB",
+    "DBPassword" : "myprodpassword",
+    "DBRootPassword" : "myprodpassword",
+    "DBUser" : "ProdDBuser",    
+    "KeyName" : "aws-kslean"
+  }
+}
